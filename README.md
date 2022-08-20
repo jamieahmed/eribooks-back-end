@@ -1,1 +1,1 @@
-![back-end-rep]{}
+For more info please click [here](https://github.com/jamieahmed/eribooks-front-end)
